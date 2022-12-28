@@ -1,0 +1,17 @@
+{
+  "name": "fedon-bot",
+  "version": "1.0.0",
+  "description": "Random fedon quoates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
+}
