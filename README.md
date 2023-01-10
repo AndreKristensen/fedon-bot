@@ -1,6 +1,6 @@
 # fedon-bot
 
-Setup 
+#Setup 
 npm install
 
 run bot:
